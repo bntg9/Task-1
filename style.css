@@ -1,0 +1,23 @@
+body {
+    font-family: Poppins, serif;
+}
+
+.header {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+.profile-photo {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 20px auto;
+    display: block;   
+}
+
+p {
+    text-align: center;
+    padding-top: 2rem;
+}
